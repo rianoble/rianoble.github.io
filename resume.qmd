@@ -3,7 +3,7 @@ layout: cv
 title: Ria Noble's CV
 ---
 # Ria Noble
-Biostatistics Student
+Biostatistics Student at BYU-I
 
 <div id="webaddress">
 <a href="nob21003@byui.edu">nob21003@byui.edu</a>
@@ -11,79 +11,59 @@ Biostatistics Student
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2024-2026`
+*Master of Biostatistics*, University of Michigan
+- Half tuition scholarship
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2021-July 2024`
+*Bachelor of Biostatistics*, Brigham Young University - Idaho
+- Areas of Interest: Biostatistics (Data Analysis/Statistics/Biology), Biology/Business, Bioinformatics
+- Wheatley Leadership Scholarship (3rd year) – 120% Tuition
+- BYU-I Scholarship based on GPA (first 2 years)
+- Important Coursework: 
+    - Calculus I, II, III, Intermediate Statistics, Linear Algebra, Experimental Design, Applied Linear Regression, Probability and Statistics, Statistics and Data Science Consulting
+    - Genetics and Molecular Biology, Cell and Molecular Biology, Bioinformatics
+    - Data Wrangling/Visualization, Data Science Programming, Business Analytics
 
-- Sizar
+## Work Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Jan. 2024-Present`
+*Consultant for RBDC*, BYU-Idaho
+- Consulting for Aspire365
+- ~120 hours of work planned over current semester
+- Report creation and generation in Shiny
 
-- Fellow
+`Apr. 2023-Present`
+*Office Assistant/Data Analyst* – BYU–I Office of Interdisciplinary Studies
+- Conducted analysis reports, put together/organized lists
+- Worked with R and Excel in various projects
+- Significant presence in ELEVATE competition (helped directors and put result report together with R)
+- Sent emails and took calls
 
+`Sep. 2022-Dec. 2022`
+*TA/Tutoring in Intermediate Statistics*, BYU-Idaho
+- Helped MATH 325 students with questions and coding issues
+- Outside of class hours due to scheduling conflicts
 
+## Important Projects	
+*Primer-Finding App*
+- Debugged and added to fellow student’s senior project app
+- Learned Shiny and package creation
+- App generates primers and probes that considers SNPs (more manual, less database)
+- Packages: DT, dplyr, tidyverse, stringi, stringr, mosaic, purr, ggplot2, hexbin, patchwork, plotly, biomaRt, spgs, primer3, shinydashboard, shiny
+*Single-Cell Genome Analysis*
+- One of first students to conduct single-cell sequencing analysis rather than bulk sequencing
+- Innovated with unfamiliar code with help of my professor
+- Packages: Seurat, SeuratData, DESeq2, EnhancedVolcano, plotly, enrichR, enrichplot, tidyverse
+*ELEVATE Competition*
+- Significant presence in Interdisciplinary Studies department’s once-a-semester competition; generated numerous score reports with R
+- Packages: RDComClient, tidyverse, janitor, readxl, stringr, knitr, rmarkdown, rlist, kableExtra
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+## Skills
+Data manipulation, organization, and visualization with tidyverse package
+Applied linear regression with base R and tidyverse package
+Proficient in SQL, Python, and Power BI
+Genetics/visualization with Seurat package
+Dashboard Creation with Shiny and/or Quarto
