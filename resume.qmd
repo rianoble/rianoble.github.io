@@ -62,8 +62,8 @@ Biostatistics Student at BYU-I
 - Packages: RDComClient, tidyverse, janitor, readxl, stringr, knitr, rmarkdown, rlist, kableExtra
 
 ## Skills
-Data manipulation, organization, and visualization with tidyverse package
-Applied linear regression with base R and tidyverse package
-Proficient in SQL, Python, and Power BI
-Genetics/visualization with Seurat package
-Dashboard Creation with Shiny and/or Quarto
+- Data manipulation, organization, and visualization with tidyverse package
+- Applied linear regression with base R and tidyverse package
+- Proficient in SQL, Python, and Power BI
+- Genetics/visualization with Seurat package
+- Dashboard Creation with Shiny and/or Quarto
