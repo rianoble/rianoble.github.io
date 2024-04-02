@@ -1,17 +1,52 @@
 [
   {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Ria Noble’s CV",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Biostatistics Student at BYU-I\n\nnob21003@byui.edu | My wikipedia page\n\n\n\n2024-2026 Master of Biostatistics, University of Michigan - Half tuition scholarship\n2021-July 2024 Bachelor of Biostatistics, Brigham Young University - Idaho - Areas of Interest: Biostatistics (Data Analysis/Statistics/Biology), Biology/Business, Bioinformatics - Wheatley Leadership Scholarship (3rd year) – 120% Tuition - BYU-I Scholarship based on GPA (first 2 years) - Important Coursework: - Calculus I, II, III, Intermediate Statistics, Linear Algebra, Experimental Design, Applied Linear Regression, Probability and Statistics, Statistics and Data Science Consulting - Genetics and Molecular Biology, Cell and Molecular Biology, Bioinformatics - Data Wrangling/Visualization, Data Science Programming, Business Analytics\n\n\n\nJan. 2024-Present Consultant for RBDC, BYU-Idaho - Consulting for Aspire365 - ~120 hours of work planned over current semester - Report creation and generation in Shiny\nApr. 2023-Present Office Assistant/Data Analyst – BYU–I Office of Interdisciplinary Studies - Conducted analysis reports, put together/organized lists - Worked with R and Excel in various projects - Significant presence in ELEVATE competition (helped directors and put result report together with R) - Sent emails and took calls\nSep. 2022-Dec. 2022 TA/Tutoring in Intermediate Statistics, BYU-Idaho - Helped MATH 325 students with questions and coding issues - Outside of class hours due to scheduling conflicts\n\n\n\nPrimer-Finding App - Debugged and added to fellow student’s senior project app - Learned Shiny and package creation - App generates primers and probes that considers SNPs (more manual, less database) - Packages: DT, dplyr, tidyverse, stringi, stringr, mosaic, purr, ggplot2, hexbin, patchwork, plotly, biomaRt, spgs, primer3, shinydashboard, shiny Single-Cell Genome Analysis - One of first students to conduct single-cell sequencing analysis rather than bulk sequencing - Innovated with unfamiliar code with help of my professor - Packages: Seurat, SeuratData, DESeq2, EnhancedVolcano, plotly, enrichR, enrichplot, tidyverse ELEVATE Competition - Significant presence in Interdisciplinary Studies department’s once-a-semester competition; generated numerous score reports with R - Packages: RDComClient, tidyverse, janitor, readxl, stringr, knitr, rmarkdown, rlist, kableExtra\n\n\n\n\nData manipulation, organization, and visualization with tidyverse package\nApplied linear regression with base R and tidyverse package\nProficient in SQL, Python, and Power BI\nGenetics/visualization with Seurat package\nDashboard Creation with Shiny and/or Quarto"
   },
   {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Ria Noble’s CV",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "2024-2026 Master of Biostatistics, University of Michigan - Half tuition scholarship\n2021-July 2024 Bachelor of Biostatistics, Brigham Young University - Idaho - Areas of Interest: Biostatistics (Data Analysis/Statistics/Biology), Biology/Business, Bioinformatics - Wheatley Leadership Scholarship (3rd year) – 120% Tuition - BYU-I Scholarship based on GPA (first 2 years) - Important Coursework: - Calculus I, II, III, Intermediate Statistics, Linear Algebra, Experimental Design, Applied Linear Regression, Probability and Statistics, Statistics and Data Science Consulting - Genetics and Molecular Biology, Cell and Molecular Biology, Bioinformatics - Data Wrangling/Visualization, Data Science Programming, Business Analytics"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Ria Noble’s CV",
+    "section": "",
+    "text": "Jan. 2024-Present Consultant for RBDC, BYU-Idaho - Consulting for Aspire365 - ~120 hours of work planned over current semester - Report creation and generation in Shiny\nApr. 2023-Present Office Assistant/Data Analyst – BYU–I Office of Interdisciplinary Studies - Conducted analysis reports, put together/organized lists - Worked with R and Excel in various projects - Significant presence in ELEVATE competition (helped directors and put result report together with R) - Sent emails and took calls\nSep. 2022-Dec. 2022 TA/Tutoring in Intermediate Statistics, BYU-Idaho - Helped MATH 325 students with questions and coding issues - Outside of class hours due to scheduling conflicts"
+  },
+  {
+    "objectID": "resume.html#important-projects",
+    "href": "resume.html#important-projects",
+    "title": "Ria Noble’s CV",
+    "section": "",
+    "text": "Primer-Finding App - Debugged and added to fellow student’s senior project app - Learned Shiny and package creation - App generates primers and probes that considers SNPs (more manual, less database) - Packages: DT, dplyr, tidyverse, stringi, stringr, mosaic, purr, ggplot2, hexbin, patchwork, plotly, biomaRt, spgs, primer3, shinydashboard, shiny Single-Cell Genome Analysis - One of first students to conduct single-cell sequencing analysis rather than bulk sequencing - Innovated with unfamiliar code with help of my professor - Packages: Seurat, SeuratData, DESeq2, EnhancedVolcano, plotly, enrichR, enrichplot, tidyverse ELEVATE Competition - Significant presence in Interdisciplinary Studies department’s once-a-semester competition; generated numerous score reports with R - Packages: RDComClient, tidyverse, janitor, readxl, stringr, knitr, rmarkdown, rlist, kableExtra"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Ria Noble’s CV",
+    "section": "",
+    "text": "Data manipulation, organization, and visualization with tidyverse package\nApplied linear regression with base R and tidyverse package\nProficient in SQL, Python, and Power BI\nGenetics/visualization with Seurat package\nDashboard Creation with Shiny and/or Quarto"
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html",
+    "href": "Cleansing_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "exploration.html",
@@ -23,55 +58,6 @@
   {
     "objectID": "exploration.html#title-2-header",
     "href": "exploration.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Projects/project4.html",
-    "href": "Cleansing_Projects/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
@@ -89,20 +75,6 @@
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "competition.html",
@@ -133,45 +105,66 @@
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "MarkDown Basics"
   },
   {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
     "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "MarkDown Basics"
   },
   {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "MarkDown Basics"
   },
   {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
     "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
+    "text": "MarkDown Basics"
   },
   {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
     "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
+    "text": "MarkDown Basics"
   },
   {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
     "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html",
+    "href": "Cleansing_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   }
 ]
