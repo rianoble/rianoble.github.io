@@ -17,49 +17,81 @@ Biostatistics Student at BYU-I
 *Master of Biostatistics*, University of Michigan
 - Half tuition scholarship
 
+
 `2021-July 2024`
 *Bachelor of Biostatistics*, Brigham Young University - Idaho
+
 - Areas of Interest: Biostatistics (Data Analysis/Statistics/Biology), Biology/Business, Bioinformatics
+
 - Wheatley Leadership Scholarship (3rd year) – 120% Tuition
+
 - BYU-I Scholarship based on GPA (first 2 years)
+
 - Important Coursework: 
+
     - Calculus I, II, III, Intermediate Statistics, Linear Algebra, Experimental Design, Applied Linear Regression, Probability and Statistics, Statistics and Data Science Consulting
+
     - Genetics and Molecular Biology, Cell and Molecular Biology, Bioinformatics
+
     - Data Wrangling/Visualization, Data Science Programming, Business Analytics
 
 ## Work Experience
 
 `Jan. 2024-Present`
 *Consultant for RBDC*, BYU-Idaho
+
 - Consulting for Aspire365
+
 - ~120 hours of work planned over current semester
+
 - Report creation and generation in Shiny
+
 
 `Apr. 2023-Present`
 *Office Assistant/Data Analyst* – BYU–I Office of Interdisciplinary Studies
+
 - Conducted analysis reports, put together/organized lists
+
 - Worked with R and Excel in various projects
+
 - Significant presence in ELEVATE competition (helped directors and put result report together with R)
+
 - Sent emails and took calls
+
 
 `Sep. 2022-Dec. 2022`
 *TA/Tutoring in Intermediate Statistics*, BYU-Idaho
+
 - Helped MATH 325 students with questions and coding issues
+
 - Outside of class hours due to scheduling conflicts
+
 
 ## Important Projects	
 *Primer-Finding App*
+
 - Debugged and added to fellow student’s senior project app
+
 - Learned Shiny and package creation
+
 - App generates primers and probes that considers SNPs (more manual, less database)
+
 - Packages: DT, dplyr, tidyverse, stringi, stringr, mosaic, purr, ggplot2, hexbin, patchwork, plotly, biomaRt, spgs, primer3, shinydashboard, shiny
+
 *Single-Cell Genome Analysis*
+
 - One of first students to conduct single-cell sequencing analysis rather than bulk sequencing
+
 - Innovated with unfamiliar code with help of my professor
+
 - Packages: Seurat, SeuratData, DESeq2, EnhancedVolcano, plotly, enrichR, enrichplot, tidyverse
+
 *ELEVATE Competition*
+
 - Significant presence in Interdisciplinary Studies department’s once-a-semester competition; generated numerous score reports with R
+
 - Packages: RDComClient, tidyverse, janitor, readxl, stringr, knitr, rmarkdown, rlist, kableExtra
+
 
 ## Skills
 - Data manipulation, organization, and visualization with tidyverse package
