@@ -1,52 +1,17 @@
 [
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Ria Noble’s CV",
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
     "section": "",
-    "text": "Biostatistics Student at BYU-I\n\nnob21003@byui.edu | My wikipedia page\n\n\n\n2024-2026 Master of Biostatistics, University of Michigan - Half tuition scholarship\n2021-July 2024 Bachelor of Biostatistics, Brigham Young University - Idaho - Areas of Interest: Biostatistics (Data Analysis/Statistics/Biology), Biology/Business, Bioinformatics - Wheatley Leadership Scholarship (3rd year) – 120% Tuition - BYU-I Scholarship based on GPA (first 2 years) - Important Coursework: - Calculus I, II, III, Intermediate Statistics, Linear Algebra, Experimental Design, Applied Linear Regression, Probability and Statistics, Statistics and Data Science Consulting - Genetics and Molecular Biology, Cell and Molecular Biology, Bioinformatics - Data Wrangling/Visualization, Data Science Programming, Business Analytics\n\n\n\nJan. 2024-Present Consultant for RBDC, BYU-Idaho - Consulting for Aspire365 - ~120 hours of work planned over current semester - Report creation and generation in Shiny\nApr. 2023-Present Office Assistant/Data Analyst – BYU–I Office of Interdisciplinary Studies - Conducted analysis reports, put together/organized lists - Worked with R and Excel in various projects - Significant presence in ELEVATE competition (helped directors and put result report together with R) - Sent emails and took calls\nSep. 2022-Dec. 2022 TA/Tutoring in Intermediate Statistics, BYU-Idaho - Helped MATH 325 students with questions and coding issues - Outside of class hours due to scheduling conflicts\n\n\n\nPrimer-Finding App - Debugged and added to fellow student’s senior project app - Learned Shiny and package creation - App generates primers and probes that considers SNPs (more manual, less database) - Packages: DT, dplyr, tidyverse, stringi, stringr, mosaic, purr, ggplot2, hexbin, patchwork, plotly, biomaRt, spgs, primer3, shinydashboard, shiny Single-Cell Genome Analysis - One of first students to conduct single-cell sequencing analysis rather than bulk sequencing - Innovated with unfamiliar code with help of my professor - Packages: Seurat, SeuratData, DESeq2, EnhancedVolcano, plotly, enrichR, enrichplot, tidyverse ELEVATE Competition - Significant presence in Interdisciplinary Studies department’s once-a-semester competition; generated numerous score reports with R - Packages: RDComClient, tidyverse, janitor, readxl, stringr, knitr, rmarkdown, rlist, kableExtra\n\n\n\n\nData manipulation, organization, and visualization with tidyverse package\nApplied linear regression with base R and tidyverse package\nProficient in SQL, Python, and Power BI\nGenetics/visualization with Seurat package\nDashboard Creation with Shiny and/or Quarto"
+    "text": "MarkDown Basics"
   },
   {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Ria Noble’s CV",
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
     "section": "",
-    "text": "2024-2026 Master of Biostatistics, University of Michigan - Half tuition scholarship\n2021-July 2024 Bachelor of Biostatistics, Brigham Young University - Idaho - Areas of Interest: Biostatistics (Data Analysis/Statistics/Biology), Biology/Business, Bioinformatics - Wheatley Leadership Scholarship (3rd year) – 120% Tuition - BYU-I Scholarship based on GPA (first 2 years) - Important Coursework: - Calculus I, II, III, Intermediate Statistics, Linear Algebra, Experimental Design, Applied Linear Regression, Probability and Statistics, Statistics and Data Science Consulting - Genetics and Molecular Biology, Cell and Molecular Biology, Bioinformatics - Data Wrangling/Visualization, Data Science Programming, Business Analytics"
-  },
-  {
-    "objectID": "resume.html#work-experience",
-    "href": "resume.html#work-experience",
-    "title": "Ria Noble’s CV",
-    "section": "",
-    "text": "Jan. 2024-Present Consultant for RBDC, BYU-Idaho - Consulting for Aspire365 - ~120 hours of work planned over current semester - Report creation and generation in Shiny\nApr. 2023-Present Office Assistant/Data Analyst – BYU–I Office of Interdisciplinary Studies - Conducted analysis reports, put together/organized lists - Worked with R and Excel in various projects - Significant presence in ELEVATE competition (helped directors and put result report together with R) - Sent emails and took calls\nSep. 2022-Dec. 2022 TA/Tutoring in Intermediate Statistics, BYU-Idaho - Helped MATH 325 students with questions and coding issues - Outside of class hours due to scheduling conflicts"
-  },
-  {
-    "objectID": "resume.html#important-projects",
-    "href": "resume.html#important-projects",
-    "title": "Ria Noble’s CV",
-    "section": "",
-    "text": "Primer-Finding App - Debugged and added to fellow student’s senior project app - Learned Shiny and package creation - App generates primers and probes that considers SNPs (more manual, less database) - Packages: DT, dplyr, tidyverse, stringi, stringr, mosaic, purr, ggplot2, hexbin, patchwork, plotly, biomaRt, spgs, primer3, shinydashboard, shiny Single-Cell Genome Analysis - One of first students to conduct single-cell sequencing analysis rather than bulk sequencing - Innovated with unfamiliar code with help of my professor - Packages: Seurat, SeuratData, DESeq2, EnhancedVolcano, plotly, enrichR, enrichplot, tidyverse ELEVATE Competition - Significant presence in Interdisciplinary Studies department’s once-a-semester competition; generated numerous score reports with R - Packages: RDComClient, tidyverse, janitor, readxl, stringr, knitr, rmarkdown, rlist, kableExtra"
-  },
-  {
-    "objectID": "resume.html#skills",
-    "href": "resume.html#skills",
-    "title": "Ria Noble’s CV",
-    "section": "",
-    "text": "Data manipulation, organization, and visualization with tidyverse package\nApplied linear regression with base R and tidyverse package\nProficient in SQL, Python, and Power BI\nGenetics/visualization with Seurat package\nDashboard Creation with Shiny and/or Quarto"
-  },
-  {
-    "objectID": "Cleansing_Projects/project4.html",
-    "href": "Cleansing_Projects/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "MarkDown Basics"
   },
   {
     "objectID": "exploration.html",
@@ -58,6 +23,55 @@
   {
     "objectID": "exploration.html#title-2-header",
     "href": "exploration.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html",
+    "href": "Cleansing_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html",
+    "href": "Cleansing_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
@@ -75,6 +89,20 @@
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "competition.html",
@@ -105,66 +133,38 @@
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Ria Noble’s CV",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Biostatistics Student at BYU-I\n\nnob21003@byui.edu | My wikipedia page\n\n\n\n2024-2026 Master of Biostatistics, University of Michigan - Half tuition scholarship\n2021-July 2024 Bachelor of Biostatistics, Brigham Young University - Idaho\n\nAreas of Interest: Biostatistics (Data Analysis/Statistics/Biology), Biology/Business, Bioinformatics\nWheatley Leadership Scholarship (3rd year) – 120% Tuition\nBYU-I Scholarship based on GPA (first 2 years)\nImportant Coursework:\n\nCalculus I, II, III, Intermediate Statistics, Linear Algebra, Experimental Design, Applied Linear Regression, Probability and Statistics, Statistics and Data Science Consulting\nGenetics and Molecular Biology, Cell and Molecular Biology, Bioinformatics\nData Wrangling/Visualization, Data Science Programming, Business Analytics\n\n\n\n\n\nJan. 2024-Present Consultant for RBDC, BYU-Idaho\n\nConsulting for Aspire365\n~120 hours of work planned over current semester\nReport creation and generation in Shiny\n\nApr. 2023-Present Office Assistant/Data Analyst – BYU–I Office of Interdisciplinary Studies\n\nConducted analysis reports, put together/organized lists\nWorked with R and Excel in various projects\nSignificant presence in ELEVATE competition (helped directors and put result report together with R)\nSent emails and took calls\n\nSep. 2022-Dec. 2022 TA/Tutoring in Intermediate Statistics, BYU-Idaho\n\nHelped MATH 325 students with questions and coding issues\nOutside of class hours due to scheduling conflicts\n\n\n\n\nPrimer-Finding App\n\nDebugged and added to fellow student’s senior project app\nLearned Shiny and package creation\nApp generates primers and probes that considers SNPs (more manual, less database)\nPackages: DT, dplyr, tidyverse, stringi, stringr, mosaic, purr, ggplot2, hexbin, patchwork, plotly, biomaRt, spgs, primer3, shinydashboard, shiny\n\nSingle-Cell Genome Analysis\n\nOne of first students to conduct single-cell sequencing analysis rather than bulk sequencing\nInnovated with unfamiliar code with help of my professor\nPackages: Seurat, SeuratData, DESeq2, EnhancedVolcano, plotly, enrichR, enrichplot, tidyverse\n\nELEVATE Competition\n\nSignificant presence in Interdisciplinary Studies department’s once-a-semester competition; generated numerous score reports with R\nPackages: RDComClient, tidyverse, janitor, readxl, stringr, knitr, rmarkdown, rlist, kableExtra\n\n\n\n\n\nData manipulation, organization, and visualization with tidyverse package\nApplied linear regression with base R and tidyverse package\nProficient in SQL, Python, and Power BI\nGenetics/visualization with Seurat package\nDashboard Creation with Shiny and/or Quarto"
   },
   {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Ria Noble’s CV",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "2024-2026 Master of Biostatistics, University of Michigan - Half tuition scholarship\n2021-July 2024 Bachelor of Biostatistics, Brigham Young University - Idaho\n\nAreas of Interest: Biostatistics (Data Analysis/Statistics/Biology), Biology/Business, Bioinformatics\nWheatley Leadership Scholarship (3rd year) – 120% Tuition\nBYU-I Scholarship based on GPA (first 2 years)\nImportant Coursework:\n\nCalculus I, II, III, Intermediate Statistics, Linear Algebra, Experimental Design, Applied Linear Regression, Probability and Statistics, Statistics and Data Science Consulting\nGenetics and Molecular Biology, Cell and Molecular Biology, Bioinformatics\nData Wrangling/Visualization, Data Science Programming, Business Analytics"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Ria Noble’s CV",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Jan. 2024-Present Consultant for RBDC, BYU-Idaho\n\nConsulting for Aspire365\n~120 hours of work planned over current semester\nReport creation and generation in Shiny\n\nApr. 2023-Present Office Assistant/Data Analyst – BYU–I Office of Interdisciplinary Studies\n\nConducted analysis reports, put together/organized lists\nWorked with R and Excel in various projects\nSignificant presence in ELEVATE competition (helped directors and put result report together with R)\nSent emails and took calls\n\nSep. 2022-Dec. 2022 TA/Tutoring in Intermediate Statistics, BYU-Idaho\n\nHelped MATH 325 students with questions and coding issues\nOutside of class hours due to scheduling conflicts"
   },
   {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
+    "objectID": "resume.html#important-projects",
+    "href": "resume.html#important-projects",
+    "title": "Ria Noble’s CV",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Primer-Finding App\n\nDebugged and added to fellow student’s senior project app\nLearned Shiny and package creation\nApp generates primers and probes that considers SNPs (more manual, less database)\nPackages: DT, dplyr, tidyverse, stringi, stringr, mosaic, purr, ggplot2, hexbin, patchwork, plotly, biomaRt, spgs, primer3, shinydashboard, shiny\n\nSingle-Cell Genome Analysis\n\nOne of first students to conduct single-cell sequencing analysis rather than bulk sequencing\nInnovated with unfamiliar code with help of my professor\nPackages: Seurat, SeuratData, DESeq2, EnhancedVolcano, plotly, enrichR, enrichplot, tidyverse\n\nELEVATE Competition\n\nSignificant presence in Interdisciplinary Studies department’s once-a-semester competition; generated numerous score reports with R\nPackages: RDComClient, tidyverse, janitor, readxl, stringr, knitr, rmarkdown, rlist, kableExtra"
   },
   {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Ria Noble’s CV",
     "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Data manipulation, organization, and visualization with tidyverse package\nApplied linear regression with base R and tidyverse package\nProficient in SQL, Python, and Power BI\nGenetics/visualization with Seurat package\nDashboard Creation with Shiny and/or Quarto"
   }
 ]
